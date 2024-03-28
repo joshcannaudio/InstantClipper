@@ -5,8 +5,8 @@
               defines="JUCE_DISPLAY_SPLASH_SCREEN=0" pluginManufacturer="Josh Cann Audio"
               pluginName="Clipper" companyWebsite="joshcannaudio.com">
   <MAINGROUP id="dSyEvu" name="Clipper">
-    <FILE id="o0HaDV" name="Figma_Plugin_Background.png" compile="0" resource="1"
-          file="../../../Downloads/Figma_Plugin_Background.png"/>
+    <FILE id="p6Rfwj" name="Figma_Plugin_Background.png" compile="0" resource="1"
+          file="Figma_Plugin_Background.png"/>
     <FILE id="tUwcQn" name="Knob1.png" compile="0" resource="1" file="../../../Downloads/Knob1.png"/>
     <FILE id="KS15YI" name="Knob2.png" compile="0" resource="1" file="../../../Downloads/Knob2.png"/>
     <FILE id="MMpQnW" name="clipperPluginBackground2.png" compile="0" resource="1"

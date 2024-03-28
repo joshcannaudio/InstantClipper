@@ -76,6 +76,7 @@
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
+		00DA7AD0A09D82088D8B4AE1 /* Figma_Plugin_Background.png */ /* Figma_Plugin_Background.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = Figma_Plugin_Background.png; path = ../../Figma_Plugin_Background.png; sourceTree = SOURCE_ROOT; };
 		02CD2AB843B57887BBBA56CA /* MyClipper.h */ /* MyClipper.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; name = MyClipper.h; path = ../../Source/MyClipper.h; sourceTree = SOURCE_ROOT; };
 		04FE83B9C5D89B188418C3FB /* juce_data_structures */ /* juce_data_structures */ = {isa = PBXFileReference; lastKnownFileType = folder; name = juce_data_structures; path = /Users/joshuacann/Documents/JUCE/modules/juce_data_structures; sourceTree = "<absolute>"; };
 		0533A0B6C3253AF08C4E9BB1 /* Limiter.h */ /* Limiter.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; name = Limiter.h; path = ../../Source/Limiter.h; sourceTree = SOURCE_ROOT; };
@@ -85,7 +86,6 @@
 		1557F0EB73F9F4175F8C655D /* BinaryData.cpp */ /* BinaryData.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; name = BinaryData.cpp; path = ../../JuceLibraryCode/BinaryData.cpp; sourceTree = SOURCE_ROOT; };
 		16AD890A1BE4F841AE3F1F04 /* include_juce_audio_plugin_client_AU_2.mm */ /* include_juce_audio_plugin_client_AU_2.mm */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.objcpp; name = include_juce_audio_plugin_client_AU_2.mm; path = ../../JuceLibraryCode/include_juce_audio_plugin_client_AU_2.mm; sourceTree = SOURCE_ROOT; };
 		18CB206E368B7F84446B5313 /* PluginEditor.h */ /* PluginEditor.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; name = PluginEditor.h; path = ../../Source/PluginEditor.h; sourceTree = SOURCE_ROOT; };
-		198ED3910DB9993570B98786 /* Figma_Plugin_Background.png */ /* Figma_Plugin_Background.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = Figma_Plugin_Background.png; path = ../../../../../Downloads/Figma_Plugin_Background.png; sourceTree = SOURCE_ROOT; };
 		251F32DEB29785D2BDA6553F /* include_juce_audio_plugin_client_AU_1.mm */ /* include_juce_audio_plugin_client_AU_1.mm */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.objcpp; name = include_juce_audio_plugin_client_AU_1.mm; path = ../../JuceLibraryCode/include_juce_audio_plugin_client_AU_1.mm; sourceTree = SOURCE_ROOT; };
 		255122888307BE8717FE8E79 /* Knob1.png */ /* Knob1.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = Knob1.png; path = ../../../../../Downloads/Knob1.png; sourceTree = SOURCE_ROOT; };
 		27F8CC61DD7DE30E760F994D /* include_juce_graphics.mm */ /* include_juce_graphics.mm */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.objcpp; name = include_juce_graphics.mm; path = ../../JuceLibraryCode/include_juce_graphics.mm; sourceTree = SOURCE_ROOT; };
@@ -234,7 +234,7 @@
 		1D232DCF2657466D21833194 /* Clipper */ = {
 			isa = PBXGroup;
 			children = (
-				198ED3910DB9993570B98786,
+				00DA7AD0A09D82088D8B4AE1,
 				255122888307BE8717FE8E79,
 				BBD5313A662911ACB2E759CD,
 				2EEF017C3B73056F37FA58AA,

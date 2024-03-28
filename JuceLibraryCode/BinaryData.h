@@ -9,7 +9,7 @@
 namespace BinaryData
 {
     extern const char*   Figma_Plugin_Background_png;
-    const int            Figma_Plugin_Background_pngSize = 67182;
+    const int            Figma_Plugin_Background_pngSize = 69069;
 
     extern const char*   Knob1_png;
     const int            Knob1_pngSize = 157087;
